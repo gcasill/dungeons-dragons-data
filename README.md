@@ -14,12 +14,14 @@ Mancarci, B.O. (2021). dnddata. Github. https://github.com/oganm/dnddata.
 
 # Files (Primary)
 
-
+final.ipynb
 
 # Files (Secondary)
 
-
+Gabriel Casillas_Dungeons and Dragons and Data.docx
 
 # License
 
-CC0: Public Domain https://creativecommons.org/publicdomain/zero/1.0/
+MIT License
+
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
